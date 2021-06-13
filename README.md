@@ -1,8 +1,28 @@
-### Hi there 👋 My name is Darren!
+## Hello Internet 👋 My name is Darren!
 
-[![Kalsyc's github stats](https://github-readme-stats.vercel.app/api?username=kalsyc&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## About me
 
-[![Kalsyc's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kalsyc)](https://github.com/anuraghazra/github-readme-stats)
+I am a Final Year Computer Science student at the National University of Singapore (NUS). My interests include Web/Mobile/Game Development and UI/UX Design. I occassionally teach basic programming in Python in school too.
+
+Frameworks/Skills: React, Angular, Vue.js, Node.js, Unity and Adobe XD/Figma
+
+Languages: TypeScript/JavaScript, C#, Python, Java, MySQL/PostgreSQL, HTML5/CSS
+
+## GitHub/Wakatime Stats
+<p float='left'>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=kalsyc&count_private=true&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="450" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kalsyc" />
+</a>
+  </p>
+
+## Ways to reach me:
+
+LinkedIn: https://www.linkedin.com/in/kalsyc/
+
+Email: kalsycofficial@gmail.com
 
 <!--
 **Kalsyc/kalsyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
