@@ -6,7 +6,7 @@ I am a Final Year Computer Science student at the National University of Singapo
 
 Frameworks/Skills: React, Angular, Vue.js, Node.js, Unity and Adobe XD/Figma
 
-Languages: TypeScript/JavaScript, C#, Python, Java, MySQL/PostgreSQL, HTML5/CSS
+Languages: JavaScript/TypeScript, C#, Python, Java, MySQL/PostgreSQL, HTML5/CSS
 
 ### GitHub/Wakatime Stats
 <p float='left'>
