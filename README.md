@@ -14,7 +14,7 @@ Languages: JavaScript/TypeScript, C#, Python, Java, MySQL/PostgreSQL, HTML5/CSS
   <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=kalsyc&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kalsyc&layout=compact" />
+  <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@kalsyc&layout=compact&theme=dark" />
 </a>
   </p>
 
