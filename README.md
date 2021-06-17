@@ -8,15 +8,18 @@ Frameworks/Skills: React, Angular, Vue.js, Node.js, Unity and Adobe XD/Figma
 
 Languages: JavaScript/TypeScript, C#, Python, Java, MySQL/PostgreSQL, HTML5/CSS
 
-### GitHub/Wakatime Stats
+### Stats
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width="800" align="center" src="https://github-profile-trophy.vercel.app/?username=kalsyc&theme=onedark&row=1&column=8"/>
+</a>
 <p float='left'>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=kalsyc&count_private=true&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@kalsyc&layout=compact&theme=dark" />
-</a>
-  </p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=kalsyc&count_private=true&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@kalsyc&layout=compact&theme=dark" />
+  </a>
+</p>
 
 ### Ways to reach me:
 
