@@ -8,6 +8,12 @@ Frameworks/Skills: React, Angular, Vue.js, Node.js, Unity and Adobe XD/Figma
 
 Languages: JavaScript/TypeScript, C#, Python, Java, MySQL/PostgreSQL, HTML5/CSS
 
+### Ways to reach me
+
+LinkedIn: https://www.linkedin.com/in/kalsyc/
+
+Email: kalsycofficial@gmail.com
+
 ### Stats
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width="800" align="center" src="https://github-profile-trophy.vercel.app/?username=kalsyc&theme=onedark&row=1&column=8"/>
@@ -17,27 +23,13 @@ Languages: JavaScript/TypeScript, C#, Python, Java, MySQL/PostgreSQL, HTML5/CSS
     <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=kalsyc&count_private=true&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@kalsyc&layout=compact&theme=dark" />
+    <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@kalsyc&layout=compact&theme=radical" />
   </a>
 </p>
 
-### Ways to reach me:
+### What I'm currently working on:
 
-LinkedIn: https://www.linkedin.com/in/kalsyc/
+A website that hosts all of the common UI components found in many UI Libraries/CSS Frameworks re-written in pure HTML5/CSS
 
-Email: kalsycofficial@gmail.com
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kalsyc&repo=SayNoToUILibraries&theme=radical)](https://github.com/Kalsyc/SayNoToUILibraries)
 
-<!--
-**Kalsyc/kalsyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
