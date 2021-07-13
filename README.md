@@ -27,9 +27,4 @@ Email: kalsycofficial@gmail.com
   </a>
 </p>
 
-### What I'm currently working on:
-
-A website that hosts all of the common UI components found in many UI Libraries/CSS Frameworks re-written in pure HTML5/CSS
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kalsyc&repo=SayNoToUILibraries&theme=radical)](https://github.com/Kalsyc/SayNoToUILibraries)
 
