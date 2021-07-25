@@ -4,7 +4,7 @@
 
 I am a Final Year Computer Science student at the National University of Singapore (NUS). My interests include Web/Mobile/Game Development and UI/UX Design. I occassionally teach basic programming in Python in school too.
 
-Frameworks/Skills: React, Angular, Vue.js, Node.js, Unity and Adobe XD/Figma
+Frameworks/Skills: React, Angular, Vue.js, Svelte, Node.js, Unity and Adobe XD/Figma
 
 Languages: JavaScript/TypeScript, C#, Python, Java, MySQL/PostgreSQL, HTML5/CSS
 
