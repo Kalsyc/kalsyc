@@ -2,11 +2,10 @@
 
 ### About me
 
-I am a Final Year Computer Science student at the National University of Singapore (NUS). My interests include Web/Mobile/Game Development and UI/UX Design. I occassionally teach basic programming in Python in school too.
+I am a Software Engineer currently based in Singapore. My interests include Web/Mobile/Game Development and UI/UX Design.
 
-Frameworks/Skills: React, Angular, Svelte, Node.js, Unity and Adobe XD/Figma, Git, Electron, Testing (Enzyme/Jest/Catch2)
-
-Languages: JavaScript/TypeScript, C#, C++, Python, Java, MySQL/PostgreSQL, HTML5/CSS
+Frameworks/Skills: React, Angular, Svelte, Node.js, Unity and Adobe XD/Figma, Git, Electron, Testing
+Languages: JavaScript/TypeScript, C#, C++, Python, Java, MySQL/PostgreSQL, HTML5/CSS3
 
 ### Ways to reach me
 
