@@ -4,7 +4,7 @@
 
 I am a Software Engineer currently based in Singapore. My interests include Web/Game Development and UI/UX Design.
 
-Frameworks/Skills: React, Vue, Svelte, Node.js, Unity and Adobe XD/Figma, Git, Electron, Testing
+Frameworks/Skills: React, Vue, Svelte, Node.js, Unity3D and Adobe XD/Figma, Git, ElectronJS, Testing (Playwright/AVA/Vitest)
 
 Languages: JavaScript/TypeScript, C#, C++, Python, Java, MySQL/PostgreSQL, HTML5/CSS3
 
