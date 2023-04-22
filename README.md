@@ -2,7 +2,7 @@
 
 ### About me
 
-I am a Software Engineer currently based in Singapore. My interests include Web/Game Development.
+I'm Darren Sim, a fun-loving and creative Software Engineer based in the vibrant city of Singapore. I specialize in crafting top-notch Web Development and UI/UX Design solutions, ensuring that my projects not only look great but also provide an exceptional user experience. 🚀
 
 Frameworks/Skills: React, Vue, Svelte, Node.js, FastAPI, Unity3D, Adobe XD/Figma, Git, ElectronJS, Testing (Playwright/AVA/Vitest)
 
